@@ -1,0 +1,1 @@
+This is an attempt to recreate Google's homepage. Emphasis was obviously placed on look/style rather than functionality. First time using Visual Studio text editor with a live server to test out HTML/CSS.
